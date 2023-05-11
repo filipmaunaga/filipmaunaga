@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @filipmaunaga
 - 👀 I’m interested in Reactjs projects, or projects that are related to MERN stack
-- 🌱 I’m currently learning advanced Reactjs concepts
 - 📫 How to reach me: filipmaunaga@gmail.com
 
 <!---
